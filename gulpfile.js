@@ -20,8 +20,6 @@ var config = {
         sass:   './dev/sass/**/*.sass',
         html:   './dev/**/*.html',
         js:     [
-            // 'dev/lib-src/jquery/dist/jquery.js', //jquery
-            // 'dev/lib-src/owl.carousel/dist/owl.carousel.js',    //owl carousel
             './dev/js-src/**/*.js']
     },
 
